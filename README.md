@@ -33,6 +33,8 @@ RAG-Math Bot is an advanced math tutoring system that uses Retrieval-Augmented G
 
 ## How RAG-Math Bot Addresses These Challenges
 
+![alt text](workflow_diagram.png)
+
 1. **Personalized Learning:**
    - Breaks down complex problems into manageable steps
    - Provides tailored explanations based on the question
@@ -237,15 +239,3 @@ streamlit run streamlit_advanced_rag.py
 - Ollama
 - PyPDF2
 - Other dependencies listed in requirements.txt
-
-## License
-
-[Your chosen license]
-
-## Contributing
-
-[Contribution guidelines]
-
-## Contact
-
-[Your contact information] 
